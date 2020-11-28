@@ -1,0 +1,19 @@
+{
+	"name": "gulp-tutorials-base-level",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"browser-sync": "^2.26.13",
+		"del": "^6.0.0",
+		"gulp": "^4.0.2",
+		"gulp-imagemin": "^7.1.0",
+		"gulp-less": "^4.0.1"
+	}
+}
