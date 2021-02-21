@@ -1,12 +1,12 @@
 # gulp-start
 * Первый пункт нумерованного списка
 * Второй пункт
-### Name:    
+## Name:
 #### Runar Nazmutdinov
 
 ## Contacts:
 ### Telegram: @locrun,
-### Email:runarnazmutdinov@gmail.com
+### Email: runarnazmutdinov@gmail.com
 
 
 
