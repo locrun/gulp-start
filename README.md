@@ -1,10 +1,10 @@
 # gulp-start
 ## Name:
-### Runar Nazmutdinov
+#### Runar Nazmutdinov
 
 ## Contacts:
-### Telegram: @locrun,
-### Email: runarnazmutdinov@gmail.com
+#### Telegram: @locrun,
+#### Email: runarnazmutdinov@gmail.com
 
 ## Brief information about yourself:
 *efefefefefefefege3erfesfsfsefsefsefsefesfesfsef*
