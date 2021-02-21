@@ -14,3 +14,9 @@
 - Webpack / Gulp / Git / GitHub
 - PHP / JQuery / Less / BEM (CSS)
 - Photoshop / Figma
+
+## Code examples:
+` ```javascript
+var s = "Подсветка JavaScript";
+alert(s);
+``` `
