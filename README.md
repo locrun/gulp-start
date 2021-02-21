@@ -3,3 +3,10 @@
 * Второй пункт
 ### Name:    
 #### Runar Nazmutdinov
+
+## Contacts:
+### Telegram: @locrun,
+### Email:runarnazmutdinov@gmail.com
+
+
+
