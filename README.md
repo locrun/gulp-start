@@ -32,4 +32,4 @@ alert(s);
 *courses, seminars, lectures, online training*
 
 ## English language:
-* Scool
+* English is weak.
