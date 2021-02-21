@@ -3,7 +3,7 @@
 - Runar Nazmutdinov
 
 ## Contacts:
-#### - Telegram: @locrun,
+#### Telegram: @locrun,
 #### Email: runarnazmutdinov@gmail.com
 
 ## Brief information about yourself:
