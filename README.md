@@ -1,6 +1,6 @@
 # gulp-start
 ## Name:
-#### Runar Nazmutdinov
+- Runar Nazmutdinov
 
 ## Contacts:
 #### Telegram: @locrun,
