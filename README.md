@@ -30,3 +30,6 @@ alert(s);
 
 ## Education:
 *courses, seminars, lectures, online training*
+
+## English language:
+* Scool
