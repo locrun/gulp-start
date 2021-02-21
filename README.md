@@ -16,7 +16,7 @@
 - Photoshop / Figma
 
 ## Code examples:
-` ```javascript
+` javascript
 var s = "Подсветка JavaScript";
 alert(s);
-``` `
+ `
