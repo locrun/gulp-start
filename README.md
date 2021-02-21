@@ -27,3 +27,6 @@ alert(s);
 - Образовательный портал "Bringitup" -http://locrun.ru/bringitup/#
 - Остекление окон "Ирвас Окна" (js) - http://locrun.ru/irvas/dist/
 - Интерактивный квиз (js) - https://locrun.github.io/quiz/
+
+## Education:
+*courses, seminars, lectures, online training*
