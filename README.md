@@ -6,5 +6,5 @@
 - Telegram: @locrun,
 - Email: runarnazmutdinov@gmail.com
 
-## Brief information about yourself:
+## Personal information:
 *Hi, my name is Runar. I'm a beginner front-end developer and I strive to become a good programmer by learning the JavaScript language.*
